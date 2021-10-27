@@ -1,9 +1,9 @@
-### Olá! eu sou Denilson Santos
+### Olá! eu sou Denilson Novais dos Santos
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/denilson1394/denilson1394">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=denilson1394&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilson1394&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denilson1394&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilson1394&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
