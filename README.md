@@ -1,7 +1,7 @@
 ### 👋 Olá, eu sou Denilson Novais dos Santos
 
 💻 Desenvolvedor Backend com experiência em **Java, Kotlin e Node.js**, apaixonado por **microsserviços, CI/CD e boas práticas de código**.  
-Atuo em projetos escaláveis com **Spring Boot, PostgreSQL, MongoDB, RabbitMQ e AWS**.
+Atuo em projetos escaláveis com **Spring Boot, PostgreSQL, MongoDB e AWS**.
 
 ---
 
