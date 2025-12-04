@@ -8,9 +8,12 @@ Atuo em projetos escaláveis com **Spring Boot, PostgreSQL, MongoDB e AWS**.
 ### 🚀 GitHub Stats
 <p align="center">
   <a href="https://github.com/DenilsonNovais">
-    <!-- Removi include_all_commits para evitar o erro -->
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=DenilsonNovais&show_icons=true&theme=dracula"/>
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenilsonNovais&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="160" 
+         src="https://github-readme-stats-one-bice.vercel.app/api?username=DenilsonNovais&show_icons=true&theme=dracula" 
+    />
+    <img height="160" 
+         src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=DenilsonNovais&layout=compact&langs_count=7&theme=dracula" 
+    />
   </a>
 </p>
 
