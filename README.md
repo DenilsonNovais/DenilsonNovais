@@ -12,7 +12,7 @@ Atuo em projetos escaláveis com **Spring Boot, PostgreSQL, MongoDB e AWS**.
          src="https://github-readme-stats-one-bice.vercel.app/api?username=DenilsonNovais&show_icons=true&theme=dracula" 
     />
     <img height="160" 
-         src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=DenilsonNovais&layout=compact&langs_count=7&theme=dracula" 
+     src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=DenilsonNovais&layout=compact&langs_count=7&theme=dracula&size_weight=0.5&count_weight=0.5&exclude_repo=dio-lab-open-source,Estudos_Curso_Em_Video,projeto-android,projeto-Relogio,imersao_Dev,Curriculum,Portfolio" 
     />
   </a>
 </p>
