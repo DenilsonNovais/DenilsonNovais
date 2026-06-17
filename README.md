@@ -1,9 +1,24 @@
 ### 👋 Olá, eu sou Denilson Novais dos Santos
 
-💻 Desenvolvedor Backend com experiência em **Java, Kotlin e Node.js**, apaixonado por **microsserviços, CI/CD e boas práticas de código**.  
-Atuo em projetos escaláveis com **Spring Boot, PostgreSQL, MongoDB e AWS**.
+🚀 Desenvolvedor Backend apaixonado por tecnologia, arquitetura de software e aprendizado contínuo.
 
----
+Tenho experiência no desenvolvimento de aplicações escaláveis utilizando **Java, Kotlin e Node.js**, atuando com **microsserviços, APIs REST, integração de sistemas, testes automatizados e práticas de CI/CD**. Ao longo da minha trajetória, participei da modernização de sistemas legados, migração de dados, automação de testes e monitoramento de aplicações em produção.
+
+💻 Principais tecnologias:
+
+* Java | Kotlin | Node.js
+* Spring Boot | NestJS
+* PostgreSQL | MongoDB
+* AWS | Docker | Jenkins
+* JUnit | Mockito | Cypress
+* Git | GitHub Actions | New Relic
+
+🌱 Atualmente estou aprofundando meus conhecimentos em **Arquitetura de Software, Cloud Computing, Inteligência Artificial e Sistemas Distribuídos**.
+
+📚 Acredito que a tecnologia é uma ferramenta poderosa para gerar impacto e criar oportunidades. Por isso, estou sempre buscando aprender, compartilhar conhecimento e desenvolver soluções que façam a diferença.
+
+📫 Fique à vontade para explorar meus projetos e conectar-se comigo!
+
 
 ### 🚀 GitHub Stats
 <p align="center">
@@ -34,6 +49,22 @@ Atuo em projetos escaláveis com **Spring Boot, PostgreSQL, MongoDB e AWS**.
   <img alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 </p>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### ZapVendas
+Plataforma de automação de atendimento via WhatsApp utilizando IA.
+
+**Tecnologias:** Java, Node.js, PostgreSQL, Redis, Docker e IA Generativa.
+
+**Principais funcionalidades:**
+- Atendimento automatizado
+- Gestão de leads
+- Integração com WhatsApp
+- Agendamento de compromissos
+- Dashboard administrativo
 
 ---
 
